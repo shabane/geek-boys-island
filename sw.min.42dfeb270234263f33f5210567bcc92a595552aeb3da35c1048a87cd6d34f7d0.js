@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/geek-boys-island/sw.js",{scope:"/geek-boys-island/"})

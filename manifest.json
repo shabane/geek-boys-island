@@ -1,0 +1,15 @@
+{
+  "name": "geek boy's island",
+  "short_name": "geek boy's island",
+  "start_url": "/geek-boys-island/",
+  "scope": "/geek-boys-island/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/geek-boys-island/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
