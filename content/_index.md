@@ -77,9 +77,9 @@ second brain
 
     ├── content
     │   └── docs
-    │       └── the-book-dir-name
-    │           ├── chapter00.md
-    │           ├── chapter01.md
-    |           ├── chapter02.md
-    │           └── chapter03.md
+    │   |   └── the-book-dir-name
+    │   |       ├── chapter00.md
+    │   |       ├── chapter01.md
+    |   |       ├── chapter02.md
+    │   |       └── chapter03.md
 </div>
