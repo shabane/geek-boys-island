@@ -18,7 +18,14 @@ git clone --depth 1 --recurse-submodules https://github.com/shabane/geek-boys-is
 
 ## deploy
 
-to deploy just 
+to deploy just fork this repo and edit the *config.toml* file with
+your *github pages url*
+
+```toml
+ baseURL: https://yourUserName.github.io/
+```
 
 
-then read [this](https://shabane.github.io/geek-boys-island/)
+## working with
+
+to add chapter and other book in your single book, just read [this](https://shabane.github.io/geek-boys-island/)
