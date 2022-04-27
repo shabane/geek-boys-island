@@ -2,6 +2,9 @@
 
 whenever you need a to create a persion book, simple just use this repo. it's configured and deploy ready with hugo-book theme
 
+
+> previw the book https://shabane.github.io/geek-boys-island/
+
 ## installation
 to use this you should firest install hugo
 
